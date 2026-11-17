@@ -3,7 +3,7 @@
 What each source is and what it contributed to this project. Links verified on 2026-11-17.
 
 ## The Negro Travelers' Green Book, Fall 1956
-- **What it is.** An annual travel guide for Black motorists, published by Victor H. Green & Co. The 1956 cover reads "Fall 1956" and "20 Years of Service to the Negro Traveler" (as read from the OCR of the cover page).
+- **What it is.** An annual travel guide for Black motorists. The OCR of the cover page reads "Fall 1956" (the surrounding cover text is partly garbled).
 - **Where.** NYPL Digital Collections, Schomburg Center for Research in Black Culture: https://digitalcollections.nypl.org/items/9d4e7020-83b9-0132-4aed-58d385a7b928
 - **Data.** NYPL public domain text and OCR: https://github.com/NYPL-publicdomain/greenbooks (CC0 / no known US copyright restrictions per the repository).
 - **Used for.** The Texas section: 98 listings in 24 towns on page images 5206271 to 5206274 (printed pages 60 to 63). Lodging and restaurants only.
@@ -20,7 +20,6 @@ What each source is and what it contributed to this project. Links verified on 2
 
 ## James W. Loewen
 - Began researching sundown towns in 1999 and published *Sundown Towns* in 2005 (later updated). Sources: https://capitalbnews.org/sundown-towns-research-racism/ and https://www.georgiaencyclopedia.org/articles/history-archaeology/sundown-towns/
-- Died in 2021 (per the Capital B News article above).
 
 ## Geocoding, routing and map data
 - **US Census Geocoder** (Public_AR_Current benchmark), no key: https://geocoding.geo.census.gov/geocoder/ . Matches reflect today's street grid.
