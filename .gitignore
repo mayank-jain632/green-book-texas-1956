@@ -3,3 +3,6 @@ dist/
 .DS_Store
 *.pdf
 *.hocr
+test-results/
+playwright-report/
+__pycache__/

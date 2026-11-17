@@ -1,0 +1,42 @@
+*, *::before, *::after { box-sizing: border-box; }
+
+html, body, #root { height: 100%; margin: 0; }
+
+body {
+  background: var(--c-paper);
+  color: var(--c-ink);
+  font-family: var(--font-serif);
+  font-size: var(--text-base);
+  line-height: 1.5;
+}
+
+h1, h2, h3 { font-family: var(--font-serif); line-height: 1.2; margin: 0 0 var(--space-2); }
+h1 { font-size: var(--text-title); font-weight: 600; letter-spacing: -0.01em; }
+h2 { font-size: 1.2rem; font-weight: 600; }
+h3 { font-size: 1rem; font-weight: 600; margin-top: var(--space-3); }
+p { margin: 0 0 var(--space-2); }
+
+a { color: var(--c-green); text-underline-offset: 0.15em; }
+a:hover { color: var(--c-ink); }
+
+:focus-visible {
+  outline: 3px solid var(--c-focus);
+  outline-offset: 2px;
+}
+
+button {
+  font: 600 var(--text-sm) var(--font-ui);
+  background: var(--c-ink);
+  color: var(--c-paper);
+  border: 2px solid var(--c-ink);
+  padding: var(--space-2) var(--space-4);
+  cursor: pointer;
+  transition: background var(--duration-fast), color var(--duration-fast);
+}
+button:hover { background: var(--c-paper); color: var(--c-ink); }
+
+.status { padding: var(--space-5); font-family: var(--font-ui); }
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}

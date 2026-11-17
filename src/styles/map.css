@@ -1,0 +1,47 @@
+.map-area { position: relative; min-height: 0; }
+.texas-map { height: 100%; width: 100%; background: var(--c-paper-deep); font-family: var(--font-ui); }
+
+/* Mute the OpenStreetMap tiles so markers and routes read first. */
+.texas-map .leaflet-tile-pane { filter: grayscale(0.55) sepia(0.2) contrast(0.95); }
+
+.map-caption {
+  position: absolute;
+  left: var(--space-2);
+  bottom: 1.6rem;
+  z-index: 500;
+  margin: 0;
+  padding: var(--space-1) var(--space-2);
+  background: var(--c-paper);
+  border: 1px solid var(--c-ink);
+  font: 400 0.8rem var(--font-ui);
+  max-width: calc(100% - 4rem);
+}
+
+.marker-icon { background: none; border: 0; }
+.marker-icon svg { display: block; overflow: visible; }
+.mk-listing { fill: var(--c-green); stroke: var(--c-paper); stroke-width: 2; }
+.mk-city { fill: var(--c-paper); stroke: var(--c-green); stroke-width: 2.5; stroke-dasharray: 4 3; }
+.mk-count { font: 600 12px var(--font-ui); fill: var(--c-ink); }
+.mk-town { stroke: var(--c-brick); stroke-width: 2.5; stroke-linejoin: round; }
+.mk-town-solid { fill: var(--c-brick); }
+.mk-town-empty { fill: var(--c-paper); }
+.mk-town-half { fill: var(--c-brick); }
+
+.marker-icon:focus-visible svg { filter: drop-shadow(0 0 0 var(--c-focus)); outline: 3px solid var(--c-focus); outline-offset: 2px; border-radius: 2px; }
+
+.leaflet-popup-content { margin: var(--space-3); font: 400 0.9rem/1.45 var(--font-serif); color: var(--c-ink); }
+.leaflet-popup-content-wrapper { border-radius: 2px; background: var(--c-paper); }
+.leaflet-popup-tip { background: var(--c-paper); }
+.popup h3 { font-size: 1.05rem; margin: 0 0 var(--space-1); }
+.popup p { margin: 0 0 var(--space-2); }
+.popup-era { font: 600 0.7rem var(--font-ui); letter-spacing: 0.1em; text-transform: uppercase; }
+.popup-era-1956 { color: var(--c-green); }
+.popup-era-research { color: var(--c-brick); }
+.popup-meta { color: var(--c-ink-soft); font-family: var(--font-ui); font-size: 0.8rem; }
+.popup-label { font-weight: 600; }
+.popup-note { font: 400 0.8rem var(--font-ui); border-left: 3px solid var(--c-rule); padding-left: var(--space-2); }
+.popup-source { font: 400 0.78rem var(--font-ui); color: var(--c-ink-soft); }
+.popup-facts { margin: 0 0 var(--space-2); font: 400 0.8rem var(--font-ui); }
+.popup-facts dt { color: var(--c-ink-soft); margin-top: var(--space-1); }
+.popup-facts dd { margin: 0; }
+.popup-list { margin: 0 0 var(--space-2); padding-left: 1.1rem; max-height: 10rem; overflow-y: auto; }
