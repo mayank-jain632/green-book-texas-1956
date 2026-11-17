@@ -1,0 +1,3972 @@
+{
+ "census": {
+  "1 W. Commerce St., Mexia, TX": {
+   "result": {
+    "addressMatches": [],
+    "input": {
+     "address": {
+      "address": "1 W. Commerce St., Mexia, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "1010 N. Border St., Tyler, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "TYLER",
+       "fromAddress": "1010",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "BORDER",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "AVE",
+       "toAddress": "1018",
+       "zip": "75702"
+      },
+      "coordinates": {
+       "x": -95.306369169971,
+       "y": 32.360444980122
+      },
+      "matchedAddress": "1010 BORDER AVE, TYLER, TX, 75702",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "141266410"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "1010 N. Border St., Tyler, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "1011 Dart St., Houston, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "HOUSTON",
+       "fromAddress": "1011",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "DART",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "1099",
+       "zip": "77007"
+      },
+      "coordinates": {
+       "x": -95.367228141569,
+       "y": 29.769933799297
+      },
+      "matchedAddress": "1011 DART ST, HOUSTON, TX, 77007",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "96352553"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "1011 Dart St., Houston, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "109 N. Belknap St., Mexia, TX": {
+   "result": {
+    "addressMatches": [],
+    "input": {
+     "address": {
+      "address": "109 N. Belknap St., Mexia, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "1103 Navasota St., Austin, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "AUSTIN",
+       "fromAddress": "1101",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "NAVASOTA",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "1157",
+       "zip": "78702"
+      },
+      "coordinates": {
+       "x": -97.726867490522,
+       "y": 30.268482230224
+      },
+      "matchedAddress": "1103 NAVASOTA ST, AUSTIN, TX, 78702",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "63947055"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "1103 Navasota St., Austin, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "1103 W. Grand Ave., Marshall, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "MARSHALL",
+       "fromAddress": "1101",
+       "preDirection": "W",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "GRAND",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "AVE",
+       "toAddress": "1199",
+       "zip": "75670"
+      },
+      "coordinates": {
+       "x": -94.377561166698,
+       "y": 32.548482694567
+      },
+      "matchedAddress": "1103 W GRAND AVE, MARSHALL, TX, 75670",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "141171823"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "1103 W. Grand Ave., Marshall, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "112 Van Buren St., Amarillo, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "AMARILLO",
+       "fromAddress": "100",
+       "preDirection": "S",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "VAN BUREN",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "198",
+       "zip": "79101"
+      },
+      "coordinates": {
+       "x": -101.839831455333,
+       "y": 35.213036820997
+      },
+      "matchedAddress": "112 S VAN BUREN ST, AMARILLO, TX, 79101",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "182477971"
+      }
+     },
+     {
+      "addressComponents": {
+       "city": "AMARILLO",
+       "fromAddress": "100",
+       "preDirection": "N",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "VAN BUREN",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "198",
+       "zip": "79107"
+      },
+      "coordinates": {
+       "x": -101.839410738484,
+       "y": 35.214958822583
+      },
+      "matchedAddress": "112 N VAN BUREN ST, AMARILLO, TX, 79107",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "182471110"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "112 Van Buren St., Amarillo, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "1203 E. 12th St., Austin, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "AUSTIN",
+       "fromAddress": "1201",
+       "preDirection": "E",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "12TH",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "1299",
+       "zip": "78702"
+      },
+      "coordinates": {
+       "x": -97.727660366359,
+       "y": 30.272490977853
+      },
+      "matchedAddress": "1203 E 12TH ST, AUSTIN, TX, 78702",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "63946863"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "1203 E. 12th St., Austin, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "1213 E. Terrell St., Fort Worth, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "FORT WORTH",
+       "fromAddress": "1211",
+       "preDirection": "E",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "TERRELL",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "AVE",
+       "toAddress": "1309",
+       "zip": "76104"
+      },
+      "coordinates": {
+       "x": -97.311730789274,
+       "y": 32.735554452895
+      },
+      "matchedAddress": "1213 E TERRELL AVE, FORT WORTH, TX, 76104",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "101961366"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "1213 E. Terrell St., Fort Worth, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "1214 E. 7th St., Austin, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "AUSTIN",
+       "fromAddress": "1200",
+       "preDirection": "E",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "7TH",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "1298",
+       "zip": "78702"
+      },
+      "coordinates": {
+       "x": -97.729861274466,
+       "y": 30.265317966224
+      },
+      "matchedAddress": "1214 E 7TH ST, AUSTIN, TX, 78702",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "63946755"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "1214 E. 7th St., Austin, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "1216 N. Staples, Corpus Christi, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "CORPUS CHRISTI",
+       "fromAddress": "1200",
+       "preDirection": "N",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "STAPLES",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "1222",
+       "zip": "78401"
+      },
+      "coordinates": {
+       "x": -97.402552840804,
+       "y": 27.80218943707
+      },
+      "matchedAddress": "1216 N STAPLES ST, CORPUS CHRISTI, TX, 78401",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "639083432"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "1216 N. Staples, Corpus Christi, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "1222 N. Staples St., Corpus Christi, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "CORPUS CHRISTI",
+       "fromAddress": "1200",
+       "preDirection": "N",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "STAPLES",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "1222",
+       "zip": "78401"
+      },
+      "coordinates": {
+       "x": -97.402401467505,
+       "y": 27.802365807661
+      },
+      "matchedAddress": "1222 N STAPLES ST, CORPUS CHRISTI, TX, 78401",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "639083432"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "1222 N. Staples St., Corpus Christi, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "1225 Elm St., Waco, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "WACO",
+       "fromAddress": "1201",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "ELM",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "AVE",
+       "toAddress": "1299",
+       "zip": "76704"
+      },
+      "coordinates": {
+       "x": -97.118078347496,
+       "y": 31.572382457927
+      },
+      "matchedAddress": "1225 ELM AVE, WACO, TX, 76704",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "146737904"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "1225 Elm St., Waco, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "123 Bridge St., Waco, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "WACO",
+       "fromAddress": "101",
+       "preDirection": "E",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "BRIDGE",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "207",
+       "zip": "76704"
+      },
+      "coordinates": {
+       "x": -97.125931904415,
+       "y": 31.562628720195
+      },
+      "matchedAddress": "123 E BRIDGE ST, WACO, TX, 76704",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "146738445"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "123 Bridge St., Waco, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "126 N. Mesquite St., San Antonio, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "SAN ANTONIO",
+       "fromAddress": "100",
+       "preDirection": "N",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "MESQUITE",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "198",
+       "zip": "78202"
+      },
+      "coordinates": {
+       "x": -98.474666921698,
+       "y": 29.42152252264
+      },
+      "matchedAddress": "126 N MESQUITE ST, SAN ANTONIO, TX, 78202",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "635439524"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "126 N. Mesquite St., San Antonio, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "129 N. Mesquite St., San Antonio, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "SAN ANTONIO",
+       "fromAddress": "101",
+       "preDirection": "N",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "MESQUITE",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "199",
+       "zip": "78202"
+      },
+      "coordinates": {
+       "x": -98.474798654785,
+       "y": 29.421546170963
+      },
+      "matchedAddress": "129 N MESQUITE ST, SAN ANTONIO, TX, 78202",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "635439524"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "129 N. Mesquite St., San Antonio, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "1307 N. Staples St., Corpus Christi, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "CORPUS CHRISTI",
+       "fromAddress": "1301",
+       "preDirection": "N",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "STAPLES",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "1315",
+       "zip": "78401"
+      },
+      "coordinates": {
+       "x": -97.402072417531,
+       "y": 27.802935534151
+      },
+      "matchedAddress": "1307 N STAPLES ST, CORPUS CHRISTI, TX, 78401",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "178514268"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "1307 N. Staples St., Corpus Christi, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "1315 E. 12th St., Austin, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "AUSTIN",
+       "fromAddress": "1301",
+       "preDirection": "E",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "12TH",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "1399",
+       "zip": "78702"
+      },
+      "coordinates": {
+       "x": -97.726219882378,
+       "y": 30.272726049176
+      },
+      "matchedAddress": "1315 E 12TH ST, AUSTIN, TX, 78702",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "63998367"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "1315 E. 12th St., Austin, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "1414 29th St., Galveston, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "GALVESTON",
+       "fromAddress": "1414",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "29TH",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "1498",
+       "zip": "77550"
+      },
+      "coordinates": {
+       "x": -94.79749516989,
+       "y": 29.294208609552
+      },
+      "matchedAddress": "1414 29TH ST, GALVESTON, TX, 77550",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "96694112"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "1414 29th St., Galveston, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "1507 Wyoming St., El Paso, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "EL PASO",
+       "fromAddress": "1501",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "WYOMING",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "AVE",
+       "toAddress": "1599",
+       "zip": "79902"
+      },
+      "coordinates": {
+       "x": -106.477444713408,
+       "y": 31.770839145978
+      },
+      "matchedAddress": "1507 WYOMING AVE, EL PASO, TX, 79902",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "189341386"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "1507 Wyoming St., El Paso, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "1508 North St., Texarkana, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "TEXARKANA",
+       "fromAddress": "1400",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "NORTH",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "1598",
+       "zip": "75501"
+      },
+      "coordinates": {
+       "x": -94.061953289216,
+       "y": 33.414310798394
+      },
+      "matchedAddress": "1508 NORTH ST, TEXARKANA, TX, 75501",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "657636685"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "1508 North St., Texarkana, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "1510 Ramirez, Corpus Christi, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "CORPUS CHRISTI",
+       "fromAddress": "1598",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "RAMIREZ",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "1500",
+       "zip": "78401"
+      },
+      "coordinates": {
+       "x": -97.403110134932,
+       "y": 27.802984524728
+      },
+      "matchedAddress": "1510 RAMIREZ ST, CORPUS CHRISTI, TX, 78401",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "178514226"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "1510 Ramirez, Corpus Christi, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "1604 Jones St., Fort Worth, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "FORT WORTH",
+       "fromAddress": "1600",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "JONES",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "1698",
+       "zip": "76102"
+      },
+      "coordinates": {
+       "x": -97.324195639992,
+       "y": 32.748651664874
+      },
+      "matchedAddress": "1604 JONES ST, FORT WORTH, TX, 76102",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "101889023"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "1604 Jones St., Fort Worth, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "1617 Dowling St., Houston, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "HOUSTON",
+       "fromAddress": "1601",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "DOWLING",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "1699",
+       "zip": "77003"
+      },
+      "coordinates": {
+       "x": -95.356547901565,
+       "y": 29.745045346922
+      },
+      "matchedAddress": "1617 DOWLING ST, HOUSTON, TX, 77003",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "96072760"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "1617 Dowling St., Houston, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "1710 Lexington Ave, Corpus Christi, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "CORPUS CHRISTI",
+       "fromAddress": "1700",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "LEXINGTON",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "AVE",
+       "toAddress": "1798",
+       "zip": "78407"
+      },
+      "coordinates": {
+       "x": -97.413118094428,
+       "y": 27.801858099014
+      },
+      "matchedAddress": "1710 LEXINGTON AVE, CORPUS CHRISTI, TX, 78407",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "178514006"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "1710 Lexington Ave, Corpus Christi, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "1711 McCoy St., Dallas, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "DALLAS",
+       "fromAddress": "1601",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "MCCOY",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "1799",
+       "zip": "75204"
+      },
+      "coordinates": {
+       "x": -96.7887563314,
+       "y": 32.796631441273
+      },
+      "matchedAddress": "1711 MCCOY ST, DALLAS, TX, 75204",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "102910704"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "1711 McCoy St., Dallas, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "1815 N. Field, Dallas, TX": {
+   "result": {
+    "addressMatches": [],
+    "input": {
+     "address": {
+      "address": "1815 N. Field, Dallas, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "1833 E. Houston St., San Antonio, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "SAN ANTONIO",
+       "fromAddress": "1801",
+       "preDirection": "E",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "HOUSTON",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "1839",
+       "zip": "78202"
+      },
+      "coordinates": {
+       "x": -98.468760968823,
+       "y": 29.425107069742
+      },
+      "matchedAddress": "1833 E HOUSTON ST, SAN ANTONIO, TX, 78202",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "101528449"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "1833 E. Houston St., San Antonio, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "1839 Ft. Worth Ave., Dallas, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "DALLAS",
+       "fromAddress": "1801",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "FORT WORTH",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "AVE",
+       "toAddress": "1899",
+       "zip": "75208"
+      },
+      "coordinates": {
+       "x": -96.849034266583,
+       "y": 32.765132885098
+      },
+      "matchedAddress": "1839 FORT WORTH AVE, DALLAS, TX, 75208",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "638341619"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "1839 Ft. Worth Ave., Dallas, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "1901 East 4th St., Fort Worth, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "FORT WORTH",
+       "fromAddress": "1851",
+       "preDirection": "E",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "4TH",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "1903",
+       "zip": "76102"
+      },
+      "coordinates": {
+       "x": -97.316999018384,
+       "y": 32.761035502523
+      },
+      "matchedAddress": "1901 E 4TH ST, FORT WORTH, TX, 76102",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "101889317"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "1901 East 4th St., Fort Worth, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "1912 Dowling St., Houston, TX": {
+   "result": {
+    "addressMatches": [],
+    "input": {
+     "address": {
+      "address": "1912 Dowling St., Houston, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "1937 8th St., Dallas, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "DALLAS",
+       "fromAddress": "1901",
+       "preDirection": "E",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "8TH",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "1949",
+       "zip": "75203"
+      },
+      "coordinates": {
+       "x": -96.795511138225,
+       "y": 32.747210641354
+      },
+      "matchedAddress": "1937 E 8TH ST, DALLAS, TX, 75203",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "102949273"
+      }
+     },
+     {
+      "addressComponents": {
+       "city": "DALLAS",
+       "fromAddress": "1801",
+       "preDirection": "W",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "8TH",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "1999",
+       "zip": "75208"
+      },
+      "coordinates": {
+       "x": -96.851040420486,
+       "y": 32.747766939219
+      },
+      "matchedAddress": "1937 W 8TH ST, DALLAS, TX, 75208",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "102944938"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "1937 8th St., Dallas, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "206 Van Buren St., Amarillo, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "AMARILLO",
+       "fromAddress": "200",
+       "preDirection": "S",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "VAN BUREN",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "298",
+       "zip": "79101"
+      },
+      "coordinates": {
+       "x": -101.84001576581,
+       "y": 35.212108298748
+      },
+      "matchedAddress": "206 S VAN BUREN ST, AMARILLO, TX, 79101",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "182475447"
+      }
+     },
+     {
+      "addressComponents": {
+       "city": "AMARILLO",
+       "fromAddress": "200",
+       "preDirection": "N",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "VAN BUREN",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "298",
+       "zip": "79107"
+      },
+      "coordinates": {
+       "x": -101.839222126946,
+       "y": 35.215478042189
+      },
+      "matchedAddress": "206 N VAN BUREN ST, AMARILLO, TX, 79107",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "182471101"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "206 Van Buren St., Amarillo, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "209 Park Ave., Orange, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "ORANGE",
+       "fromAddress": "299",
+       "preDirection": "W",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "PARK",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "AVE",
+       "toAddress": "201",
+       "zip": "77630"
+      },
+      "coordinates": {
+       "x": -93.730020810022,
+       "y": 30.099440379686
+      },
+      "matchedAddress": "209 W PARK AVE, ORANGE, TX, 77630",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "74014489"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "209 Park Ave., Orange, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "214 Long, Dallas, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "DALLAS",
+       "fromAddress": "200",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "LONGBRANCH",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "LN",
+       "toAddress": "398",
+       "zip": "75217"
+      },
+      "coordinates": {
+       "x": -96.690105807181,
+       "y": 32.711246721442
+      },
+      "matchedAddress": "214 LONGBRANCH LN, DALLAS, TX, 75217",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "102958821"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "214 Long, Dallas, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "214 Oak St., Texarkana, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "TEXARKANA",
+       "fromAddress": "200",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "OAK",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "298",
+       "zip": "75501"
+      },
+      "coordinates": {
+       "x": -94.047424625735,
+       "y": 33.419706323602
+      },
+      "matchedAddress": "214 OAK ST, TEXARKANA, TX, 75501",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "57671336"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "214 Oak St., Texarkana, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "217 East 15th St., Fort Worth, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "FORT WORTH",
+       "fromAddress": "101",
+       "preDirection": "E",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "15TH",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "299",
+       "zip": "76102"
+      },
+      "coordinates": {
+       "x": -97.325279006616,
+       "y": 32.748302142559
+      },
+      "matchedAddress": "217 E 15TH ST, FORT WORTH, TX, 76102",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "101889088"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "217 East 15th St., Fort Worth, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "218 S. Mesa Ave., El Paso, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "EL PASO",
+       "fromAddress": "200",
+       "preDirection": "S",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "MESA",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "398",
+       "zip": "79901"
+      },
+      "coordinates": {
+       "x": -106.486512937997,
+       "y": 31.75719590563
+      },
+      "matchedAddress": "218 S MESA ST, EL PASO, TX, 79901",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "189406918"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "218 S. Mesa Ave., El Paso, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "2213 Hall St., Dallas, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "DALLAS",
+       "fromAddress": "2201",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "HALL",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "2299",
+       "zip": "75204"
+      },
+      "coordinates": {
+       "x": -96.793594393097,
+       "y": 32.7991650655
+      },
+      "matchedAddress": "2213 HALL ST, DALLAS, TX, 75204",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "102909262"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "2213 Hall St., Dallas, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "2219 Hall St., Dallas, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "DALLAS",
+       "fromAddress": "2201",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "HALL",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "2299",
+       "zip": "75204"
+      },
+      "coordinates": {
+       "x": -96.793610381493,
+       "y": 32.799178943821
+      },
+      "matchedAddress": "2219 HALL ST, DALLAS, TX, 75204",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "102909262"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "2219 Hall St., Dallas, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "2412 Dowling St., Houston, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "HOUSTON",
+       "fromAddress": "2400",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "DOWLING",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "2598",
+       "zip": "77004"
+      },
+      "coordinates": {
+       "x": -95.36145635779,
+       "y": 29.739033620301
+      },
+      "matchedAddress": "2412 DOWLING ST, HOUSTON, TX, 77004",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "96071797"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "2412 Dowling St., Houston, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "2700 Flora St., Dallas, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "DALLAS",
+       "fromAddress": "2700",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "FLORA",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "2898",
+       "zip": "75201"
+      },
+      "coordinates": {
+       "x": -96.79456621098,
+       "y": 32.792325293742
+      },
+      "matchedAddress": "2700 FLORA ST, DALLAS, TX, 75201",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "103182099"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "2700 Flora St., Dallas, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "2710 Ave. F, Galveston, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "GALVESTON",
+       "fromAddress": "2700",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "AVE",
+       "state": "TX",
+       "streetName": "F",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "",
+       "toAddress": "2798",
+       "zip": "77550"
+      },
+      "coordinates": {
+       "x": -94.798077936562,
+       "y": 29.302460331936
+      },
+      "matchedAddress": "2710 AVE F, GALVESTON, TX, 77550",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "96679521"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "2710 Ave. F, Galveston, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "2751 Lyons Ave., Houston, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "HOUSTON",
+       "fromAddress": "2701",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "LYONS",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "AVE",
+       "toAddress": "2799",
+       "zip": "77020"
+      },
+      "coordinates": {
+       "x": -95.342514973642,
+       "y": 29.773515617283
+      },
+      "matchedAddress": "2751 LYONS AVE, HOUSTON, TX, 77020",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "638593879"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "2751 Lyons Ave., Houston, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "2824 Ave. M, Galveston, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "GALVESTON",
+       "fromAddress": "2800",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "AVE",
+       "state": "TX",
+       "streetName": "M",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "",
+       "toAddress": "2898",
+       "zip": "77550"
+      },
+      "coordinates": {
+       "x": -94.797212624316,
+       "y": 29.295817344146
+      },
+      "matchedAddress": "2824 AVE M, GALVESTON, TX, 77550",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "96680188"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "2824 Ave. M, Galveston, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "2958 Commerce St., San Antonio, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "SAN ANTONIO",
+       "fromAddress": "2800",
+       "preDirection": "E",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "COMMERCE",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "2998",
+       "zip": "78203"
+      },
+      "coordinates": {
+       "x": -98.445082269061,
+       "y": 29.419510191465
+      },
+      "matchedAddress": "2958 E COMMERCE ST, SAN ANTONIO, TX, 78203",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "647544471"
+      }
+     },
+     {
+      "addressComponents": {
+       "city": "SAN ANTONIO",
+       "fromAddress": "2924",
+       "preDirection": "W",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "COMMERCE",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "2998",
+       "zip": "78207"
+      },
+      "coordinates": {
+       "x": -98.528254092973,
+       "y": 29.428204117721
+      },
+      "matchedAddress": "2958 W COMMERCE ST, SAN ANTONIO, TX, 78207",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "101684468"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "2958 Commerce St., San Antonio, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "2997 Pine St., Beaumont, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "BEAUMONT",
+       "fromAddress": "2859",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "PINE",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "2999",
+       "zip": "77703"
+      },
+      "coordinates": {
+       "x": -94.106157996207,
+       "y": 30.109412741486
+      },
+      "matchedAddress": "2997 PINE ST, BEAUMONT, TX, 77703",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "73850946"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "2997 Pine St., Beaumont, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "301 N. Lee, Midland, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "MIDLAND",
+       "fromAddress": "301",
+       "preDirection": "N",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "LEE",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "373",
+       "zip": "79701"
+      },
+      "coordinates": {
+       "x": -102.0638488018,
+       "y": 31.999974472712
+      },
+      "matchedAddress": "301 N LEE ST, MIDLAND, TX, 79701",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "139582868"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "301 N. Lee, Midland, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "302 N. Central St., Dallas, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "DALLAS",
+       "fromAddress": "300",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "CENTRE",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "398",
+       "zip": "75208"
+      },
+      "coordinates": {
+       "x": -96.826562698725,
+       "y": 32.742207779906
+      },
+      "matchedAddress": "302 CENTRE ST, DALLAS, TX, 75208",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "102946761"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "302 N. Central St., Dallas, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "308 N. Howe St., Atlanta, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "ATLANTA",
+       "fromAddress": "300",
+       "preDirection": "N",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "HOWE",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "398",
+       "zip": "75551"
+      },
+      "coordinates": {
+       "x": -94.169811883088,
+       "y": 33.117523776836
+      },
+      "matchedAddress": "308 N HOWE ST, ATLANTA, TX, 75551",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "57055309"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "308 N. Howe St., Atlanta, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "3115 State St., Dallas, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "DALLAS",
+       "fromAddress": "3101",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "STATE",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "3199",
+       "zip": "75204"
+      },
+      "coordinates": {
+       "x": -96.795945577037,
+       "y": 32.79906432135
+      },
+      "matchedAddress": "3115 STATE ST, DALLAS, TX, 75204",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "102909250"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "3115 State St., Dallas, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "3118 San Jacinto St., Dallas, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "DALLAS",
+       "fromAddress": "3100",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "SAN JACINTO",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "3198",
+       "zip": "75204"
+      },
+      "coordinates": {
+       "x": -96.790270665996,
+       "y": 32.792764040674
+      },
+      "matchedAddress": "3118 SAN JACINTO ST, DALLAS, TX, 75204",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "102910721"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "3118 San Jacinto St., Dallas, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "315 E. 9th St., Fort Worth, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "FORT WORTH",
+       "fromAddress": "301",
+       "preDirection": "E",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "9TH",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "399",
+       "zip": "76102"
+      },
+      "coordinates": {
+       "x": -97.327409429967,
+       "y": 32.752307915285
+      },
+      "matchedAddress": "315 E 9TH ST, FORT WORTH, TX, 76102",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "101888893"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "315 E. 9th St., Fort Worth, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "3205 Almeda St., El Paso, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "EL PASO",
+       "fromAddress": "3299",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "ALAMEDA",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "AVE",
+       "toAddress": "3201",
+       "zip": "79905"
+      },
+      "coordinates": {
+       "x": -106.456851671919,
+       "y": 31.773556550236
+      },
+      "matchedAddress": "3205 ALAMEDA AVE, EL PASO, TX, 79905",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "189421717"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "3205 Almeda St., El Paso, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "322 N.E. 2nd St., Paris, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "PARIS",
+       "fromAddress": "300",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "2ND",
+       "suffixDirection": "NE",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "398",
+       "zip": "75460"
+      },
+      "coordinates": {
+       "x": -95.554456093547,
+       "y": 33.664323852242
+      },
+      "matchedAddress": "322 2ND ST NE, PARIS, TX, 75460",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "63574347"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "322 N.E. 2nd St., Paris, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "322 W. Third St., Amarillo, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "AMARILLO",
+       "fromAddress": "398",
+       "preDirection": "W",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "3RD",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "AVE",
+       "toAddress": "300",
+       "zip": "79101"
+      },
+      "coordinates": {
+       "x": -101.83918172277,
+       "y": 35.211095331516
+      },
+      "matchedAddress": "322 W 3RD AVE, AMARILLO, TX, 79101",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "182477952"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "322 W. Third St., Amarillo, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "3308 Lyons Ave., Houston, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "HOUSTON",
+       "fromAddress": "3300",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "LYONS",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "AVE",
+       "toAddress": "3398",
+       "zip": "77020"
+      },
+      "coordinates": {
+       "x": -95.337542203577,
+       "y": 29.775918378923
+      },
+      "matchedAddress": "3308 LYONS AVE, HOUSTON, TX, 77020",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "96069186"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "3308 Lyons Ave., Houston, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "3525 State St., Dallas, TX": {
+   "result": {
+    "addressMatches": [],
+    "input": {
+     "address": {
+      "address": "3525 State St., Dallas, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "4024 Lyons Ave., Houston, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "HOUSTON",
+       "fromAddress": "4000",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "LYONS",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "AVE",
+       "toAddress": "4098",
+       "zip": "77020"
+      },
+      "coordinates": {
+       "x": -95.33084035894,
+       "y": 29.77593921871
+      },
+      "matchedAddress": "4024 LYONS AVE, HOUSTON, TX, 77020",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "96554571"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "4024 Lyons Ave., Houston, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "404 Sullivan St., Wichita Falls, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "WICHITA FALLS",
+       "fromAddress": "400",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "SULLIVAN",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "498",
+       "zip": "76301"
+      },
+      "coordinates": {
+       "x": -98.482772557608,
+       "y": 33.910601407945
+      },
+      "matchedAddress": "404 SULLIVAN ST, WICHITA FALLS, TX, 76301",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "169844856"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "404 Sullivan St., Wichita Falls, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "405 N.E. 2nd St., Paris, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "PARIS",
+       "fromAddress": "401",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "2ND",
+       "suffixDirection": "NE",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "499",
+       "zip": "75460"
+      },
+      "coordinates": {
+       "x": -95.554583768715,
+       "y": 33.665241000116
+      },
+      "matchedAddress": "405 2ND ST NE, PARIS, TX, 75460",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "63574310"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "405 N.E. 2nd St., Paris, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "413 E. Fifth St., Fort Worth, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "FORT WORTH",
+       "fromAddress": "401",
+       "preDirection": "E",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "5TH",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "499",
+       "zip": "76102"
+      },
+      "coordinates": {
+       "x": -97.328330587718,
+       "y": 32.755103673209
+      },
+      "matchedAddress": "413 E 5TH ST, FORT WORTH, TX, 76102",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "101888594"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "413 E. Fifth St., Fort Worth, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "413 S. Oregon St., El Paso, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "EL PASO",
+       "fromAddress": "401",
+       "preDirection": "S",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "OREGON",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "499",
+       "zip": "79901"
+      },
+      "coordinates": {
+       "x": -106.487119340863,
+       "y": 31.755160404393
+      },
+      "matchedAddress": "413 S OREGON ST, EL PASO, TX, 79901",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "189341863"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "413 S. Oregon St., El Paso, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "418 E. Main St., Waxahachie, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "WAXAHACHIE",
+       "fromAddress": "400",
+       "preDirection": "E",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "MAIN",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "498",
+       "zip": "75165"
+      },
+      "coordinates": {
+       "x": -96.843661976281,
+       "y": 32.383973313018
+      },
+      "matchedAddress": "418 E MAIN ST, WAXAHACHIE, TX, 75165",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "103451107"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "418 E. Main St., Waxahachie, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "421 25th St., Galveston, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "GALVESTON",
+       "fromAddress": "401",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "25TH",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "499",
+       "zip": "77550"
+      },
+      "coordinates": {
+       "x": -94.796008469387,
+       "y": 29.304232150384
+      },
+      "matchedAddress": "421 25TH ST, GALVESTON, TX, 77550",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "96693360"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "421 25th St., Galveston, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "423 Flood St., Wichita Falls, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "WICHITA FALLS",
+       "fromAddress": "301",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "FLOOD",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "499",
+       "zip": "76301"
+      },
+      "coordinates": {
+       "x": -98.481844400577,
+       "y": 33.915177103074
+      },
+      "matchedAddress": "423 FLOOD ST, WICHITA FALLS, TX, 76301",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "169855069"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "423 Flood St., Wichita Falls, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "427 E. Main St., Waxahachie, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "WAXAHACHIE",
+       "fromAddress": "401",
+       "preDirection": "E",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "MAIN",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "499",
+       "zip": "75165"
+      },
+      "coordinates": {
+       "x": -96.843464398083,
+       "y": 32.384016287034
+      },
+      "matchedAddress": "427 E MAIN ST, WAXAHACHIE, TX, 75165",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "103451107"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "427 E. Main St., Waxahachie, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "430 E. Main St., Waxahachie, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "WAXAHACHIE",
+       "fromAddress": "400",
+       "preDirection": "E",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "MAIN",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "498",
+       "zip": "75165"
+      },
+      "coordinates": {
+       "x": -96.843458791711,
+       "y": 32.383884957948
+      },
+      "matchedAddress": "430 E MAIN ST, WAXAHACHIE, TX, 75165",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "103451107"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "430 E. Main St., Waxahachie, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "504 West 3rd St., Texarkana, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "TEXARKANA",
+       "fromAddress": "500",
+       "preDirection": "W",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "3RD",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "598",
+       "zip": "75501"
+      },
+      "coordinates": {
+       "x": -94.046978325402,
+       "y": 33.420953837011
+      },
+      "matchedAddress": "504 W 3RD ST, TEXARKANA, TX, 75501",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "57671183"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "504 West 3rd St., Texarkana, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "506 S. Gevers, San Antonio, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "SAN ANTONIO",
+       "fromAddress": "500",
+       "preDirection": "S",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "GEVERS",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "598",
+       "zip": "78203"
+      },
+      "coordinates": {
+       "x": -98.456668854831,
+       "y": 29.415773546069
+      },
+      "matchedAddress": "506 S GEVERS ST, SAN ANTONIO, TX, 78203",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "101530920"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "506 S. Gevers, San Antonio, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "509 Juarez St., Wichita Falls, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "WICHITA FALLS",
+       "fromAddress": "501",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "JUAREZ",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "599",
+       "zip": "76301"
+      },
+      "coordinates": {
+       "x": -98.480358480879,
+       "y": 33.912077197263
+      },
+      "matchedAddress": "509 JUAREZ ST, WICHITA FALLS, TX, 76301",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "169844891"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "509 Juarez St., Wichita Falls, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "511 Tornillo, El Paso, TX": {
+   "result": {
+    "addressMatches": [],
+    "input": {
+     "address": {
+      "address": "511 Tornillo, El Paso, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "516 N. Border St., Tyler, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "TYLER",
+       "fromAddress": "500",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "BORDER",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "AVE",
+       "toAddress": "522",
+       "zip": "75702"
+      },
+      "coordinates": {
+       "x": -95.306351695202,
+       "y": 32.355281083405
+      },
+      "matchedAddress": "516 BORDER AVE, TYLER, TX, 75702",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "141306301"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "516 N. Border St., Tyler, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "525 Nolan St., San Antonio, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "SAN ANTONIO",
+       "fromAddress": "501",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "NOLAN",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "599",
+       "zip": "78202"
+      },
+      "coordinates": {
+       "x": -98.475823971616,
+       "y": 29.427627278656
+      },
+      "matchedAddress": "525 NOLAN ST, SAN ANTONIO, TX, 78202",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "639258973"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "525 Nolan St., San Antonio, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "536 W. 7th St., Port Arthur, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "PORT ARTHUR",
+       "fromAddress": "500",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "7TH",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "598",
+       "zip": "77640"
+      },
+      "coordinates": {
+       "x": -93.937301523098,
+       "y": 29.873687574838
+      },
+      "matchedAddress": "536 7TH ST, PORT ARTHUR, TX, 77640",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "73867877"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "536 W. 7th St., Port Arthur, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "539 Forsythe St., Beaumont, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "BEAUMONT",
+       "fromAddress": "529",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "FORSYTHE",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "599",
+       "zip": "77701"
+      },
+      "coordinates": {
+       "x": -94.098698375275,
+       "y": 30.080403178048
+      },
+      "matchedAddress": "539 FORSYTHE ST, BEAUMONT, TX, 77701",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "73856348"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "539 Forsythe St., Beaumont, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "607 Juarez St., Wichita Falls, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "WICHITA FALLS",
+       "fromAddress": "601",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "JUAREZ",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "699",
+       "zip": "76301"
+      },
+      "coordinates": {
+       "x": -98.478876739444,
+       "y": 33.912080293622
+      },
+      "matchedAddress": "607 JUAREZ ST, WICHITA FALLS, TX, 76301",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "169844900"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "607 Juarez St., Wichita Falls, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "615 N. Mill St., Henderson, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "HENDERSON",
+       "fromAddress": "601",
+       "preDirection": "N",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "MILL",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "699",
+       "zip": "75652"
+      },
+      "coordinates": {
+       "x": -94.794207545144,
+       "y": 32.159600642282
+      },
+      "matchedAddress": "615 N MILL ST, HENDERSON, TX, 75652",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "79651306"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "615 N. Mill St., Henderson, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "632 W. 7th St., Port Arthur, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "PORT ARTHUR",
+       "fromAddress": "600",
+       "preDirection": "W",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "7TH",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "698",
+       "zip": "77640"
+      },
+      "coordinates": {
+       "x": -93.944540091958,
+       "y": 29.86592284652
+      },
+      "matchedAddress": "632 W 7TH ST, PORT ARTHUR, TX, 77640",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "73867744"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "632 W. 7th St., Port Arthur, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "708 Texas Ave., Port Arthur, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "PORT ARTHUR",
+       "fromAddress": "700",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "TEXAS",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "AVE",
+       "toAddress": "798",
+       "zip": "77640"
+      },
+      "coordinates": {
+       "x": -93.943673653564,
+       "y": 29.867145983225
+      },
+      "matchedAddress": "708 TEXAS AVE, PORT ARTHUR, TX, 77640",
+      "tigerLine": {
+       "side": "R",
+       "tigerLineId": "73867741"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "708 Texas Ave., Port Arthur, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "712 E. 4th St., Corsicana, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "CORSICANA",
+       "fromAddress": "700",
+       "preDirection": "E",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "4TH",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "AVE",
+       "toAddress": "798",
+       "zip": "75110"
+      },
+      "coordinates": {
+       "x": -96.459488727809,
+       "y": 32.098087175056
+      },
+      "matchedAddress": "712 E 4TH AVE, CORSICANA, TX, 75110",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "183883112"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "712 E. 4th St., Corsicana, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "730 Forsythe St., Beaumont, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "BEAUMONT",
+       "fromAddress": "700",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "FORSYTHE",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "788",
+       "zip": "77701"
+      },
+      "coordinates": {
+       "x": -94.100467489795,
+       "y": 30.078884111629
+      },
+      "matchedAddress": "730 FORSYTHE ST, BEAUMONT, TX, 77701",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "73856481"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "730 Forsythe St., Beaumont, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "735 E. Commerce, San Antonio, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "SAN ANTONIO",
+       "fromAddress": "601",
+       "preDirection": "E",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "COMMERCE",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "799",
+       "zip": "78205"
+      },
+      "coordinates": {
+       "x": -98.486259504822,
+       "y": 29.423445135711
+      },
+      "matchedAddress": "735 E COMMERCE ST, SAN ANTONIO, TX, 78205",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "101526555"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "735 E. Commerce, San Antonio, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "8051 W. Montgomery, Houston, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "HOUSTON",
+       "fromAddress": "8019",
+       "preDirection": "W",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "MONTGOMERY",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "RD",
+       "toAddress": "8099",
+       "zip": "77088"
+      },
+      "coordinates": {
+       "x": -95.432144523144,
+       "y": 29.866855648571
+      },
+      "matchedAddress": "8051 W MONTGOMERY RD, HOUSTON, TX, 77088",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "96052833"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "8051 W. Montgomery, Houston, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "806 Winnebago, Corpus Christi, TX": {
+   "result": {
+    "addressMatches": [],
+    "input": {
+     "address": {
+      "address": "806 Winnebago, Corpus Christi, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "810 E. 13th St., Austin, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "AUSTIN",
+       "fromAddress": "800",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "E 13TH",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "898",
+       "zip": "78702"
+      },
+      "coordinates": {
+       "x": -97.73130240765,
+       "y": 30.273068380663
+      },
+      "matchedAddress": "810 E 13TH ST, AUSTIN, TX, 78702",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "232052504"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "810 E. 13th St., Austin, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "810 Winnebago, Corpus Christi, TX": {
+   "result": {
+    "addressMatches": [],
+    "input": {
+     "address": {
+      "address": "810 Winnebago, Corpus Christi, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "821 Bogel St., Dallas, TX": {
+   "result": {
+    "addressMatches": [],
+    "input": {
+     "address": {
+      "address": "821 Bogel St., Dallas, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "875 Neches St., Beaumont, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "BEAUMONT",
+       "fromAddress": "801",
+       "preDirection": "",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "NECHES",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "899",
+       "zip": "77701"
+      },
+      "coordinates": {
+       "x": -94.098029642876,
+       "y": 30.0786116701
+      },
+      "matchedAddress": "875 NECHES ST, BEAUMONT, TX, 77701",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "73856596"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "875 Neches St., Beaumont, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  },
+  "902 N. 8th St., Waco, TX": {
+   "result": {
+    "addressMatches": [
+     {
+      "addressComponents": {
+       "city": "WACO",
+       "fromAddress": "900",
+       "preDirection": "S",
+       "preQualifier": "",
+       "preType": "",
+       "state": "TX",
+       "streetName": "8TH",
+       "suffixDirection": "",
+       "suffixQualifier": "",
+       "suffixType": "ST",
+       "toAddress": "1098",
+       "zip": "76706"
+      },
+      "coordinates": {
+       "x": -97.126820807458,
+       "y": 31.548165746316
+      },
+      "matchedAddress": "902 S 8TH ST, WACO, TX, 76706",
+      "tigerLine": {
+       "side": "L",
+       "tigerLineId": "146736330"
+      }
+     }
+    ],
+    "input": {
+     "address": {
+      "address": "902 N. 8th St., Waco, TX"
+     },
+     "benchmark": {
+      "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+      "benchmarkName": "Public_AR_Current",
+      "id": "4",
+      "isDefault": true
+     }
+    }
+   }
+  }
+ },
+ "nominatim": {
+  "Amarillo, Texas": [
+   {
+    "addresstype": "city",
+    "boundingbox": [
+     "35.0944910",
+     "35.2944750",
+     "-101.9635690",
+     "-101.6536840"
+    ],
+    "class": "boundary",
+    "display_name": "Amarillo, Potter County, Texas, United States",
+    "importance": 0.6051132145225839,
+    "lat": "35.2072900",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-101.8371192",
+    "name": "Amarillo",
+    "osm_id": 115286,
+    "osm_type": "relation",
+    "place_id": 332694682,
+    "place_rank": 16,
+    "type": "administrative"
+   }
+  ],
+  "Corpus Christi, Texas": [
+   {
+    "addresstype": "city",
+    "boundingbox": [
+     "27.4835690",
+     "27.8996380",
+     "-97.6827420",
+     "-96.9611080"
+    ],
+    "class": "boundary",
+    "display_name": "Corpus Christi, Nueces County, Texas, United States",
+    "importance": 0.6236924055730001,
+    "lat": "27.7635302",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-97.4033191",
+    "name": "Corpus Christi",
+    "osm_id": 253988,
+    "osm_type": "relation",
+    "place_id": 315484533,
+    "place_rank": 16,
+    "type": "administrative"
+   }
+  ],
+  "Corsicana, Texas": [
+   {
+    "addresstype": "town",
+    "boundingbox": [
+     "32.0199975",
+     "32.1308939",
+     "-96.5353155",
+     "-96.3846473"
+    ],
+    "class": "boundary",
+    "display_name": "Corsicana, Navarro County, Texas, United States",
+    "importance": 0.5279923868348181,
+    "lat": "32.0938236",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-96.4646750",
+    "name": "Corsicana",
+    "osm_id": 6571622,
+    "osm_type": "relation",
+    "place_id": 334408958,
+    "place_rank": 16,
+    "type": "administrative"
+   }
+  ],
+  "Dallas, Texas": [
+   {
+    "addresstype": "city",
+    "boundingbox": [
+     "32.6132160",
+     "33.0239366",
+     "-97.0004820",
+     "-96.4636317"
+    ],
+    "class": "boundary",
+    "display_name": "Dallas, Dallas County, Texas, United States",
+    "importance": 0.7208730637207591,
+    "lat": "32.7762719",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-96.7968559",
+    "name": "Dallas",
+    "osm_id": 6571629,
+    "osm_type": "relation",
+    "place_id": 334259665,
+    "place_rank": 16,
+    "type": "administrative"
+   }
+  ],
+  "El Paso, Texas": [
+   {
+    "addresstype": "city",
+    "boundingbox": [
+     "31.6222532",
+     "32.0014840",
+     "-106.6357546",
+     "-106.1991528"
+    ],
+    "class": "boundary",
+    "display_name": "El Paso, El Paso County, Texas, United States",
+    "importance": 0.6548295810741123,
+    "lat": "31.7601001",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-106.4870476",
+    "name": "El Paso",
+    "osm_id": 113919,
+    "osm_type": "relation",
+    "place_id": 315756961,
+    "place_rank": 16,
+    "type": "administrative"
+   }
+  ],
+  "Fort Worth, Texas": [
+   {
+    "addresstype": "city",
+    "boundingbox": [
+     "32.5515840",
+     "33.0495290",
+     "-97.5923880",
+     "-97.0335808"
+    ],
+    "class": "boundary",
+    "display_name": "Fort Worth, Tarrant County, Texas, United States",
+    "importance": 0.6669700427470727,
+    "lat": "32.7531770",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-97.3327459",
+    "name": "Fort Worth",
+    "osm_id": 115274,
+    "osm_type": "relation",
+    "place_id": 330076144,
+    "place_rank": 16,
+    "type": "administrative"
+   }
+  ],
+  "Galveston, Texas": [
+   {
+    "addresstype": "city",
+    "boundingbox": [
+     "28.9963439",
+     "29.3993990",
+     "-95.1299350",
+     "-94.5256644"
+    ],
+    "class": "boundary",
+    "display_name": "Galveston, Galveston County, Texas, United States",
+    "importance": 0.592577470942579,
+    "lat": "29.3056996",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-94.7933252",
+    "name": "Galveston",
+    "osm_id": 114559,
+    "osm_type": "relation",
+    "place_id": 305114054,
+    "place_rank": 16,
+    "type": "administrative"
+   }
+  ],
+  "Houston, Texas": [
+   {
+    "addresstype": "city",
+    "boundingbox": [
+     "29.5470115",
+     "30.1103506",
+     "-95.9097419",
+     "-95.0120525"
+    ],
+    "class": "boundary",
+    "display_name": "Houston, Harris County, Texas, United States",
+    "importance": 0.7370168476604813,
+    "lat": "29.7589382",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-95.3676974",
+    "name": "Houston",
+    "osm_id": 2688911,
+    "osm_type": "relation",
+    "place_id": 429971864,
+    "place_rank": 16,
+    "type": "administrative"
+   },
+   {
+    "addresstype": "village",
+    "boundingbox": [
+     "37.2945110",
+     "37.3437600",
+     "-91.9794380",
+     "-91.9309400"
+    ],
+    "class": "boundary",
+    "display_name": "Houston, Texas County, Missouri, 65483, United States",
+    "importance": 0.4662687408519185,
+    "lat": "37.3261588",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-91.9559880",
+    "name": "Houston",
+    "osm_id": 140698,
+    "osm_type": "relation",
+    "place_id": 338640264,
+    "place_rank": 16,
+    "type": "administrative"
+   }
+  ],
+  "Marshall, Texas": [
+   {
+    "addresstype": "town",
+    "boundingbox": [
+     "32.4842907",
+     "32.5781250",
+     "-94.4090904",
+     "-94.2774790"
+    ],
+    "class": "boundary",
+    "display_name": "Marshall, Harrison County, Texas, United States",
+    "importance": 0.5486149354609211,
+    "lat": "32.5447756",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-94.3661004",
+    "name": "Marshall",
+    "osm_id": 6603637,
+    "osm_type": "relation",
+    "place_id": 334502971,
+    "place_rank": 16,
+    "type": "administrative"
+   }
+  ],
+  "Mexia, Texas": [
+   {
+    "addresstype": "town",
+    "boundingbox": [
+     "31.6303289",
+     "31.7179859",
+     "-96.5176043",
+     "-96.4534502"
+    ],
+    "class": "boundary",
+    "display_name": "Mexia, Limestone County, Texas, 76667, United States",
+    "importance": 0.4683546029616915,
+    "lat": "31.6816183",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-96.4783677",
+    "name": "Mexia",
+    "osm_id": 8476270,
+    "osm_type": "relation",
+    "place_id": 315978233,
+    "place_rank": 16,
+    "type": "administrative"
+   }
+  ],
+  "Midland, Texas": [
+   {
+    "addresstype": "city",
+    "boundingbox": [
+     "31.9184063",
+     "32.1293873",
+     "-102.2697973",
+     "-102.0176654"
+    ],
+    "class": "boundary",
+    "display_name": "Midland, Midland County, Texas, United States",
+    "importance": 0.5751188121888086,
+    "lat": "31.9973662",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-102.0779480",
+    "name": "Midland",
+    "osm_id": 2374903,
+    "osm_type": "relation",
+    "place_id": 332684056,
+    "place_rank": 16,
+    "type": "administrative"
+   }
+  ],
+  "Tyler, Texas": [
+   {
+    "addresstype": "city",
+    "boundingbox": [
+     "32.2306715",
+     "32.4678793",
+     "-95.4188842",
+     "-95.1932894"
+    ],
+    "class": "boundary",
+    "display_name": "Tyler, Smith County, Texas, United States",
+    "importance": 0.5960275067080325,
+    "lat": "32.3512601",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-95.3010624",
+    "name": "Tyler",
+    "osm_id": 6603689,
+    "osm_type": "relation",
+    "place_id": 332589475,
+    "place_rank": 16,
+    "type": "administrative"
+   }
+  ],
+  "Waco, Texas": [
+   {
+    "addresstype": "city",
+    "boundingbox": [
+     "31.4467270",
+     "31.6603867",
+     "-97.3291760",
+     "-97.0447115"
+    ],
+    "class": "boundary",
+    "display_name": "Waco, McLennan County, Texas, United States",
+    "importance": 0.6176202702863178,
+    "lat": "31.5545147",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-97.1325618",
+    "name": "Waco",
+    "osm_id": 113870,
+    "osm_type": "relation",
+    "place_id": 314489753,
+    "place_rank": 16,
+    "type": "administrative"
+   }
+  ]
+ }
+}
