@@ -1,0 +1,99 @@
+id,name,category,address_raw,city,source_page_image_id,ocr_confidence_note
+gb1956-tx-001,Watley Hotel,hotel,112 Van Buren St.,Amarillo,5206271,OCR agrees with page image
+gb1956-tx-002,Tennessee Hotel,hotel,206 Van Buren St.,Amarillo,5206271,OCR agrees with page image
+gb1956-tx-003,Tom's Place Restaurant,restaurant,322 W. Third St.,Amarillo,5206271,OCR agrees with page image
+gb1956-tx-004,Mrs. Lizzie Simon Tourist Home,tourist home,308 N. Howe St.,Atlanta,5206271,OCR agrees with page image
+gb1956-tx-005,De Luxe Hotel,hotel,1103 Navasota St.,Austin,5206272,OCR agrees with page image
+gb1956-tx-006,Mrs. J. W. Frazier Tourist Home,tourist home,810 E. 13th St.,Austin,5206272,"OCR name read ""Mrs. J. W. Frazie1 Tourist Home"""
+gb1956-tx-007,Mrs. J. W. Duncan Tourist Home,tourist home,1214 E. 7th St.,Austin,5206272,OCR agrees with page image
+gb1956-tx-008,Mrs. W. M. Tears Tourist Home,tourist home,1203 E. 12th St.,Austin,5206272,OCR agrees with page image
+gb1956-tx-009,Porter's Tourist Home,tourist home,1315 E. 12th St.,Austin,5206272,OCR agrees with page image
+gb1956-tx-010,Whitney Hotel,hotel,2997 Pine St.,Beaumont,5206272,OCR agrees with page image
+gb1956-tx-011,Hotel Theresa,hotel,875 Neches St.,Beaumont,5206272,"OCR name read ""Hotel The1esa"""
+gb1956-tx-012,Mrs. B. Rivers Tourist Home,tourist home,730 Forsythe St.,Beaumont,5206272,OCR agrees with page image
+gb1956-tx-013,Long's Bar-B-Q,restaurant,539 Forsythe St.,Beaumont,5206272,OCR agrees with page image
+gb1956-tx-014,Horace Crecy's Tourist Home,tourist home,1710 Lexington Ave,Corpus Christi,5206272,"Surname read from page image as ""Crecy""; OCR garbled it; OCR name read ""Horace C1ecv’s Tou1ist Home"""
+gb1956-tx-015,Avalon Restaurant,restaurant,1510 Ramirez,Corpus Christi,5206272,"Printed as ""Restauranut"" in the 1956 edition; spelling normalized; OCR name read ""Avalon Restauranut"""
+gb1956-tx-016,Skylark Restaurant,restaurant,1216 N. Staples,Corpus Christi,5206272,"OCR name read ""Skylaik Restaui ant"""
+gb1956-tx-017,Blue Willow Restaurant,restaurant,806 Winnebago,Corpus Christi,5206272,OCR agrees with page image
+gb1956-tx-018,Square Deal Restaurant,restaurant,810 Winnebago,Corpus Christi,5206272,OCR agrees with page image
+gb1956-tx-019,Royal Restaurant,restaurant,1222 N. Staples St.,Corpus Christi,5206272,"OCR name read ""Loyal Restau1ant"""
+gb1956-tx-020,Fortuna Restaurant,restaurant,1307 N. Staples St.,Corpus Christi,5206272,"OCR name read ""Fo1tuna Restauiant"""
+gb1956-tx-021,Mrs. R. Lee Tourist Home,tourist home,712 E. 4th St.,Corsicana,5206272,OCR agrees with page image
+gb1956-tx-022,Bogel Hotel,hotel,821 Bogel St.,Dallas,5206272,OCR agrees with page image
+gb1956-tx-023,Howard Hotel,hotel,3118 San Jacinto St.,Dallas,5206272,OCR agrees with page image
+gb1956-tx-024,Lewis Hotel,hotel,302½ N. Central St.,Dallas,5206272,OCR agrees with page image
+gb1956-tx-025,Powell Hotel,hotel,3115 State St.,Dallas,5206272,OCR agrees with page image
+gb1956-tx-026,Y.M.C.A.,other,2700 Flora St.,Dallas,5206272,"Category ""other"": an association, not a hotel by name"
+gb1956-tx-027,Y.W.C.A.,other,3525 State St.,Dallas,5206272,"Category ""other"": an association, not a hotel by name"
+gb1956-tx-028,8th St. Motel,motel,1937 8th St.,Dallas,5206272,OCR agrees with page image
+gb1956-tx-029,"Triple ""A"" Motel",motel,1839 Ft. Worth Ave.,Dallas,5206272,OCR agrees with page image
+gb1956-tx-030,2nd Ave. Motel,motel,214 Long,Dallas,5206272,OCR agrees with page image
+gb1956-tx-031,Green Acres Motel,motel,1711 McCoy St.,Dallas,5206272,OCR agrees with page image
+gb1956-tx-032,Palm Cafe Restaurant,restaurant,2213 Hall St.,Dallas,5206272,OCR agrees with page image
+gb1956-tx-033,Shalimar Restaurant,restaurant,2219 Hall St.,Dallas,5206272,OCR agrees with page image
+gb1956-tx-034,Beaumont Barbeque Restaurant,restaurant,1815 N. Field,Dallas,5206272,OCR agrees with page image
+gb1956-tx-035,Murray Theater Hotel,hotel,218 S. Mesa Ave.,El Paso,5206272,OCR agrees with page image
+gb1956-tx-036,Daniel Hotel,hotel,413 S. Oregon St.,El Paso,5206272,OCR agrees with page image
+gb1956-tx-037,A. Winston Tourist Home,tourist home,3205 Almeda St.,El Paso,5206272,OCR agrees with page image
+gb1956-tx-038,Mrs. S. W. Stull Tourist House,tourist home,511 Tornillo,El Paso,5206272,"Printed as ""Tourist House"""
+gb1956-tx-039,C. Williams Tourist Home,tourist home,1507 Wyoming St.,El Paso,5206272,OCR agrees with page image
+gb1956-tx-040,Y.M.C.A.,other,1604 Jones St.,Fort Worth,5206272,"Category ""other"": an association, not a hotel by name"
+gb1956-tx-041,Hotel Jim,hotel,413-15 E. Fifth St.,Fort Worth,5206272,"OCR dropped the dot leader and the hyphen in the street number; OCR name read ""Hotel Jim 413 15 E. Fifth St.""; OCR address read """""
+gb1956-tx-042,Evan's Tourist Home,tourist home,1213 E. Terrell St.,Fort Worth,5206272,"OCR name read ""Evan’ s Tou1ist Home""; OCR address read ""1213 E. Te1rell St."""
+gb1956-tx-043,Green Leaf Restaurant,restaurant,315 E. 9th St.,Fort Worth,5206272,"OCR name read ""Green Leaf R estauiant"""
+gb1956-tx-044,Clover Motel,motel,1901 East 4th St.,Fort Worth,5206272,"OCR name read ""Clove1 Motel"""
+gb1956-tx-045,Mohawk Hotel,hotel,217 East 15th St.,Fort Worth,5206272,OCR agrees with page image
+gb1956-tx-046,Oleander Hotel,hotel,421½ 25th St.,Galveston,5206273,"OCR address read ""4211/; 25th St."""
+gb1956-tx-047,Gus Allen Hotel,hotel,2710 Ave. F,Galveston,5206273,"OCR address read ""2710 Ave. F 1"""
+gb1956-tx-048,Mrs. J. Pope Tourist Home,tourist home,2824 Ave. M,Galveston,5206273,"OCR address read ""2824 Ave. M i ,"""
+gb1956-tx-049,Armstrong's Motel,motel,,Galveston,5206273,"No address is printed for this entry in the 1956 edition; OCR name read ""Armstrong’s Motel g; “2“"""
+gb1956-tx-050,Freeman Tourist Home,tourist home,1414 29th St.,Galveston,5206273,"OCR address read ""1414 29th St. 1"""
+gb1956-tx-051,Chat & Chew Restaurant,restaurant,615 N. Mill St.,Henderson,5206273,"OCR address read ""615 N. Mill St. y"""
+gb1956-tx-052,Crystal Hotel,hotel,3308 Lyons Ave.,Houston,5206273,"OCR address read ""3308 Lyons Ave. 1"""
+gb1956-tx-053,Cooper's Hotel,hotel,1011 Dart St.,Houston,5206273,"OCR address read ""1011 Dart St. E ,"""
+gb1956-tx-054,La Jayo Hotel,hotel,4024 Lyons Ave.,Houston,5206273,"OCR address read ""4024 Lyons Ave. W“"""
+gb1956-tx-055,Ajapa Hotel,hotel,2412 Dowling St.,Houston,5206273,"OCR address read ""2412 Dowling St. A,"""
+gb1956-tx-056,New Day Hotel,hotel,1912 Dowling St.,Houston,5206273,"OCR address read ""1912 Dowling St. E"""
+gb1956-tx-057,Golden Key Motel,motel,Highways 90A & 59,Houston,5206273,"OCR address read ""Highways 90A & 59 f"""
+gb1956-tx-058,Sid's Ranch,other,8051 W. Montgomery,Houston,5206273,"Category ""other"": the listing does not say what kind of business it is; OCR address read ""8051 W. Montgomery illjc"""
+gb1956-tx-059,Lincoln Restaurant,restaurant,Conti & Jenson,Houston,5206273,OCR agrees with page image
+gb1956-tx-060,Eva's Restaurant,restaurant,1617 Dowling St.,Houston,5206273,OCR agrees with page image
+gb1956-tx-061,Oriental Restaurant,restaurant,2751 Lyons Ave.,Houston,5206273,OCR agrees with page image
+gb1956-tx-062,La Casa Motel,motel,"U. S. 80, 2 Miles West",Marshall,5206273,"OCR address read ""U. S. 80, 2 Miles West » 1"""
+gb1956-tx-063,Bailey Tourist Home,tourist home,1103 W. Grand Ave.,Marshall,5206273,"OCR address read ""1103 W. Grand Ave. y?"""
+gb1956-tx-064,Carleton Hotel,hotel,1 W. Commerce St.,Mexia,5206273,"OCR address read ""1 W. Commerce St. W?“"""
+gb1956-tx-065,Mrs. M. Carroll Restaurant,restaurant,109 N. Belknap St.,Mexia,5206273,"OCR name read ""i Mrs. M. Carroll Restaurant""; OCR address read ""109 N. Belknap; St. ;1 ‘"""
+gb1956-tx-066,Watson's Hotel,hotel,,Midland,5206273,"No address is printed for this entry in the 1956 edition; OCR name read ""5 Watson’s Hotel 1 ‘"""
+gb1956-tx-067,King Sandwich Restaurant,restaurant,301 N. Lee,Midland,5206273,"OCR address read ""301 N. Lee j 1"""
+gb1956-tx-068,Monticello Hotel,hotel,209 Park Ave.,Orange,5206273,"OCR address read ""209 Park Ave. 3‘"""
+gb1956-tx-069,Brown Rigg Hotel,hotel,322 N.E. 2nd St.,Paris,5206273,OCR agrees with page image
+gb1956-tx-070,Mrs. I. Scott Tourist Home,tourist home,405 N.E. 2nd St.,Paris,5206273,"OCR address read ""405 NE. 2nd St. 5; H"""
+gb1956-tx-071,Ritz Hotel,hotel,708 Texas Ave.,Port Arthur,5206273,"OCR address read ""708 Texas Ave. I"""
+gb1956-tx-072,Shadowland Restaurant,restaurant,632 W. 7th St.,Port Arthur,5206273,"OCR address read ""632 W. 7th St. j; ;"""
+gb1956-tx-073,Tick Tock Restaurant,restaurant,536 W. 7th St.,Port Arthur,5206273,"OCR address read ""536 W. 7th St. X313”"""
+gb1956-tx-074,Manhattan Hotel,hotel,735 E. Commerce,San Antonio,5206273,"OCR address read ""735 E. Commerce ; Km“"""
+gb1956-tx-075,Nolan Hotel,hotel,525 Nolan St.,San Antonio,5206273,"OCR address read ""525 Nolan St. ; H‘"""
+gb1956-tx-076,Ross Hotel,hotel,126 N. Mesquite St.,San Antonio,5206273,"OCR address read ""126 N. Mesquite St. W"""
+gb1956-tx-077,Ritz Motel,motel,2958 Commerce St.,San Antonio,5206273,"OCR address read ""2958 Commerce St. ‘11"""
+gb1956-tx-078,Mundy Tourist Home,tourist home,129 N. Mesquite St.,San Antonio,5206273,OCR agrees with page image
+gb1956-tx-079,Mamie's Restaurant,restaurant,1833 E. Houston St.,San Antonio,5206273,OCR agrees with page image
+gb1956-tx-080,Silver Slipper Restaurant,restaurant,506 S. Gevers,San Antonio,5206273,"OCR address read ""506 S. Gevers y ,"""
+gb1956-tx-081,Mrs. Thomas Tourist Home,tourist home,516 N. Border St.,Tyler,5206273,"OCR address read ""5 16 N. Border St. ,y"""
+gb1956-tx-082,W. Langston Tourist Home,tourist home,1010 N. Border St.,Tyler,5206273,"OCR address read ""1010 N. Border St. 1"""
+gb1956-tx-083,Casino Restaurant,restaurant,504 West 3rd St.,Texarkana,5206274,OCR agrees with page image
+gb1956-tx-084,Lola Hotel,hotel,214 Oak St.,Texarkana,5206274,"OCR name read ""ir ; Lola Hotel"""
+gb1956-tx-085,Sunset Motel,motel,1508 North St.,Texarkana,5206274,"OCR name read """"I ~ Sunset Motel"""
+gb1956-tx-086,Ebony Motel,motel,Old Dallas Highway,Waco,5206274,"OCR name read """" ""i Ebony Motel"""
+gb1956-tx-087,College View Motel,motel,East Elm St.,Waco,5206274,"OCR name read ""2; College View Motel"""
+gb1956-tx-088,Givens Motel,motel,1225½ Elm St.,Waco,5206274,"OCR name read ""‘3 Givens Motel"""
+gb1956-tx-089,B. Ashford Tourist Home,tourist home,902 N. 8th St.,Waco,5206274,OCR agrees with page image
+gb1956-tx-090,Harlem Restaurant,restaurant,123 Bridge St.,Waco,5206274,OCR agrees with page image
+gb1956-tx-091,Ideal Restaurant,restaurant,902 N. 8th St.,Waco,5206274,"OCR name read "".1? Ideal Restaurant"""
+gb1956-tx-092,Mrs. M. Johnson Tourist Home,tourist home,427 E. Main St.,Waxahachie,5206274,"OCR name read ""2. I Mrs. M, Johnson Tourist Home"""
+gb1956-tx-093,Mrs. N. Lowe Tourist Home,tourist home,418 E. Main St.,Waxahachie,5206274,"OCR name read ""3 Mrs. N. Lowe Tourist Home"""
+gb1956-tx-094,Mrs. N. Jones Tourist Home,tourist home,430 E. Main St.,Waxahachie,5206274,"OCR name read ""2‘ , _ Mrs. N. Jones Tourist Home"""
+gb1956-tx-095,Bridges Hotel,hotel,404 Sullivan St.,Wichita Falls,5206274,OCR agrees with page image
+gb1956-tx-096,E. B. Jeffrey Tourist Home,tourist home,509 Juarez St.,Wichita Falls,5206274,OCR agrees with page image
+gb1956-tx-097,Mrs. L. Winson Tourist Home,tourist home,607 Juarez St.,Wichita Falls,5206274,"Printed as ""Hourist Home"" in the 1956 edition; spelling normalized; OCR name read ""Mrs. L. Winson Hourist Home"""
+gb1956-tx-098,Plaza Hotel,hotel,423 Flood St.,Wichita Falls,5206274,OCR agrees with page image

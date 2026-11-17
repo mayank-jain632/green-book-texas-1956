@@ -1,0 +1,99 @@
+page_image_id	city	name	address	category	transcription_note
+5206271	Amarillo	Watley Hotel	112 Van Buren St.	hotel	
+5206271	Amarillo	Tennessee Hotel	206 Van Buren St.	hotel	
+5206271	Amarillo	Tom's Place Restaurant	322 W. Third St.	restaurant	
+5206271	Atlanta	Mrs. Lizzie Simon Tourist Home	308 N. Howe St.	tourist home	
+5206272	Austin	De Luxe Hotel	1103 Navasota St.	hotel	
+5206272	Austin	Mrs. J. W. Frazier Tourist Home	810 E. 13th St.	tourist home	
+5206272	Austin	Mrs. J. W. Duncan Tourist Home	1214 E. 7th St.	tourist home	
+5206272	Austin	Mrs. W. M. Tears Tourist Home	1203 E. 12th St.	tourist home	
+5206272	Austin	Porter's Tourist Home	1315 E. 12th St.	tourist home	
+5206272	Beaumont	Whitney Hotel	2997 Pine St.	hotel	
+5206272	Beaumont	Hotel Theresa	875 Neches St.	hotel	
+5206272	Beaumont	Mrs. B. Rivers Tourist Home	730 Forsythe St.	tourist home	
+5206272	Beaumont	Long's Bar-B-Q	539 Forsythe St.	restaurant	
+5206272	Corpus Christi	Horace Crecy's Tourist Home	1710 Lexington Ave	tourist home	Surname read from page image as "Crecy"; OCR garbled it
+5206272	Corpus Christi	Avalon Restaurant	1510 Ramirez	restaurant	Printed as "Restauranut" in the 1956 edition; spelling normalized
+5206272	Corpus Christi	Skylark Restaurant	1216 N. Staples	restaurant	
+5206272	Corpus Christi	Blue Willow Restaurant	806 Winnebago	restaurant	
+5206272	Corpus Christi	Square Deal Restaurant	810 Winnebago	restaurant	
+5206272	Corpus Christi	Royal Restaurant	1222 N. Staples St.	restaurant	
+5206272	Corpus Christi	Fortuna Restaurant	1307 N. Staples St.	restaurant	
+5206272	Corsicana	Mrs. R. Lee Tourist Home	712 E. 4th St.	tourist home	
+5206272	Dallas	Bogel Hotel	821 Bogel St.	hotel	
+5206272	Dallas	Howard Hotel	3118 San Jacinto St.	hotel	
+5206272	Dallas	Lewis Hotel	302½ N. Central St.	hotel	
+5206272	Dallas	Powell Hotel	3115 State St.	hotel	
+5206272	Dallas	Y.M.C.A.	2700 Flora St.	other	Category "other": an association, not a hotel by name
+5206272	Dallas	Y.W.C.A.	3525 State St.	other	Category "other": an association, not a hotel by name
+5206272	Dallas	8th St. Motel	1937 8th St.	motel	
+5206272	Dallas	Triple "A" Motel	1839 Ft. Worth Ave.	motel	
+5206272	Dallas	2nd Ave. Motel	214 Long	motel	
+5206272	Dallas	Green Acres Motel	1711 McCoy St.	motel	
+5206272	Dallas	Palm Cafe Restaurant	2213 Hall St.	restaurant	
+5206272	Dallas	Shalimar Restaurant	2219 Hall St.	restaurant	
+5206272	Dallas	Beaumont Barbeque Restaurant	1815 N. Field	restaurant	
+5206272	El Paso	Murray Theater Hotel	218 S. Mesa Ave.	hotel	
+5206272	El Paso	Daniel Hotel	413 S. Oregon St.	hotel	
+5206272	El Paso	A. Winston Tourist Home	3205 Almeda St.	tourist home	
+5206272	El Paso	Mrs. S. W. Stull Tourist House	511 Tornillo	tourist home	Printed as "Tourist House"
+5206272	El Paso	C. Williams Tourist Home	1507 Wyoming St.	tourist home	
+5206272	Fort Worth	Y.M.C.A.	1604 Jones St.	other	Category "other": an association, not a hotel by name
+5206272	Fort Worth	Hotel Jim	413-15 E. Fifth St.	hotel	OCR dropped the dot leader and the hyphen in the street number
+5206272	Fort Worth	Evan's Tourist Home	1213 E. Terrell St.	tourist home	
+5206272	Fort Worth	Green Leaf Restaurant	315 E. 9th St.	restaurant	
+5206272	Fort Worth	Clover Motel	1901 East 4th St.	motel	
+5206272	Fort Worth	Mohawk Hotel	217 East 15th St.	hotel	
+5206273	Galveston	Oleander Hotel	421½ 25th St.	hotel	
+5206273	Galveston	Gus Allen Hotel	2710 Ave. F	hotel	
+5206273	Galveston	Mrs. J. Pope Tourist Home	2824 Ave. M	tourist home	
+5206273	Galveston	Armstrong's Motel		motel	No address is printed for this entry in the 1956 edition
+5206273	Galveston	Freeman Tourist Home	1414 29th St.	tourist home	
+5206273	Henderson	Chat & Chew Restaurant	615 N. Mill St.	restaurant	
+5206273	Houston	Crystal Hotel	3308 Lyons Ave.	hotel	
+5206273	Houston	Cooper's Hotel	1011 Dart St.	hotel	
+5206273	Houston	La Jayo Hotel	4024 Lyons Ave.	hotel	
+5206273	Houston	Ajapa Hotel	2412 Dowling St.	hotel	
+5206273	Houston	New Day Hotel	1912 Dowling St.	hotel	
+5206273	Houston	Golden Key Motel	Highways 90A & 59	motel	
+5206273	Houston	Sid's Ranch	8051 W. Montgomery	other	Category "other": the listing does not say what kind of business it is
+5206273	Houston	Lincoln Restaurant	Conti & Jenson	restaurant	
+5206273	Houston	Eva's Restaurant	1617 Dowling St.	restaurant	
+5206273	Houston	Oriental Restaurant	2751 Lyons Ave.	restaurant	
+5206273	Marshall	La Casa Motel	U. S. 80, 2 Miles West	motel	
+5206273	Marshall	Bailey Tourist Home	1103 W. Grand Ave.	tourist home	
+5206273	Mexia	Carleton Hotel	1 W. Commerce St.	hotel	
+5206273	Mexia	Mrs. M. Carroll Restaurant	109 N. Belknap St.	restaurant	
+5206273	Midland	Watson's Hotel		hotel	No address is printed for this entry in the 1956 edition
+5206273	Midland	King Sandwich Restaurant	301 N. Lee	restaurant	
+5206273	Orange	Monticello Hotel	209 Park Ave.	hotel	
+5206273	Paris	Brown Rigg Hotel	322 N.E. 2nd St.	hotel	
+5206273	Paris	Mrs. I. Scott Tourist Home	405 N.E. 2nd St.	tourist home	
+5206273	Port Arthur	Ritz Hotel	708 Texas Ave.	hotel	
+5206273	Port Arthur	Shadowland Restaurant	632 W. 7th St.	restaurant	
+5206273	Port Arthur	Tick Tock Restaurant	536 W. 7th St.	restaurant	
+5206273	San Antonio	Manhattan Hotel	735 E. Commerce	hotel	
+5206273	San Antonio	Nolan Hotel	525 Nolan St.	hotel	
+5206273	San Antonio	Ross Hotel	126 N. Mesquite St.	hotel	
+5206273	San Antonio	Ritz Motel	2958 Commerce St.	motel	
+5206273	San Antonio	Mundy Tourist Home	129 N. Mesquite St.	tourist home	
+5206273	San Antonio	Mamie's Restaurant	1833 E. Houston St.	restaurant	
+5206273	San Antonio	Silver Slipper Restaurant	506 S. Gevers	restaurant	
+5206273	Tyler	Mrs. Thomas Tourist Home	516 N. Border St.	tourist home	
+5206273	Tyler	W. Langston Tourist Home	1010 N. Border St.	tourist home	
+5206274	Texarkana	Casino Restaurant	504 West 3rd St.	restaurant	
+5206274	Texarkana	Lola Hotel	214 Oak St.	hotel	
+5206274	Texarkana	Sunset Motel	1508 North St.	motel	
+5206274	Waco	Ebony Motel	Old Dallas Highway	motel	
+5206274	Waco	College View Motel	East Elm St.	motel	
+5206274	Waco	Givens Motel	1225½ Elm St.	motel	
+5206274	Waco	B. Ashford Tourist Home	902 N. 8th St.	tourist home	
+5206274	Waco	Harlem Restaurant	123 Bridge St.	restaurant	
+5206274	Waco	Ideal Restaurant	902 N. 8th St.	restaurant	
+5206274	Waxahachie	Mrs. M. Johnson Tourist Home	427 E. Main St.	tourist home	
+5206274	Waxahachie	Mrs. N. Lowe Tourist Home	418 E. Main St.	tourist home	
+5206274	Waxahachie	Mrs. N. Jones Tourist Home	430 E. Main St.	tourist home	
+5206274	Wichita Falls	Bridges Hotel	404 Sullivan St.	hotel	
+5206274	Wichita Falls	E. B. Jeffrey Tourist Home	509 Juarez St.	tourist home	
+5206274	Wichita Falls	Mrs. L. Winson Tourist Home	607 Juarez St.	tourist home	Printed as "Hourist Home" in the 1956 edition; spelling normalized
+5206274	Wichita Falls	Plaza Hotel	423 Flood St.	hotel	
