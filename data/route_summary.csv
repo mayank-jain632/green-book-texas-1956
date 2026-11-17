@@ -1,0 +1,4 @@
+route,buffer_miles,route_miles,listings_in_buffer,sundown_entries_in_buffer,longest_gap_miles,gap_from,gap_to
+El Paso to Dallas,10.0,634.9,26,4,303.7,"C. Williams Tourist Home (El Paso, approximate (city))","Watson's Hotel (Midland, approximate (city))"
+Houston to Dallas,10.0,239.5,24,2,175.3,"Sid's Ranch (Houston, address match)","Mrs. R. Lee Tourist Home (Corsicana, approximate (city))"
+Houston to Orange,10.0,110.4,15,5,83.6,"La Jayo Hotel (Houston, address match)","Whitney Hotel (Beaumont, address match)"
