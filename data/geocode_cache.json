@@ -3648,6 +3648,29 @@
   }
  },
  "nominatim": {
+  "Alba, Texas": [
+   {
+    "addresstype": "village",
+    "boundingbox": [
+     "32.7818176",
+     "32.7980996",
+     "-95.6441691",
+     "-95.6237991"
+    ],
+    "class": "boundary",
+    "display_name": "Alba, Wood County, Texas, 75410, United States",
+    "importance": 0.46541543191826146,
+    "lat": "32.7929428",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-95.6344105",
+    "name": "Alba",
+    "osm_id": 3490787,
+    "osm_type": "relation",
+    "place_id": 334523546,
+    "place_rank": 16,
+    "type": "administrative"
+   }
+  ],
   "Amarillo, Texas": [
    {
     "addresstype": "city",
@@ -3667,6 +3690,75 @@
     "osm_id": 115286,
     "osm_type": "relation",
     "place_id": 332694682,
+    "place_rank": 16,
+    "type": "administrative"
+   }
+  ],
+  "Big Spring, Texas": [
+   {
+    "addresstype": "town",
+    "boundingbox": [
+     "32.1933857",
+     "32.2806635",
+     "-101.5361110",
+     "-101.4018617"
+    ],
+    "class": "boundary",
+    "display_name": "Big Spring, Howard County, Texas, United States",
+    "importance": 0.514818231226696,
+    "lat": "32.2503980",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-101.4787356",
+    "name": "Big Spring",
+    "osm_id": 6587581,
+    "osm_type": "relation",
+    "place_id": 330486894,
+    "place_rank": 16,
+    "type": "administrative"
+   }
+  ],
+  "Comanche County, Texas": [
+   {
+    "addresstype": "county",
+    "boundingbox": [
+     "31.6841124",
+     "32.2651120",
+     "-98.9243780",
+     "-98.1565352"
+    ],
+    "class": "boundary",
+    "display_name": "Comanche County, Texas, United States",
+    "importance": 0.5933278675945138,
+    "lat": "31.9130171",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-98.5273880",
+    "name": "Comanche County",
+    "osm_id": 1836937,
+    "osm_type": "relation",
+    "place_id": 315833390,
+    "place_rank": 12,
+    "type": "administrative"
+   }
+  ],
+  "Comanche, Texas": [
+   {
+    "addresstype": "town",
+    "boundingbox": [
+     "31.8825675",
+     "31.9257670",
+     "-98.6334489",
+     "-98.5818032"
+    ],
+    "class": "boundary",
+    "display_name": "Comanche, Comanche County, Texas, 76442, United States",
+    "importance": 0.5115572623795729,
+    "lat": "31.8975584",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-98.6040074",
+    "name": "Comanche",
+    "osm_id": 9244626,
+    "osm_type": "relation",
+    "place_id": 315560817,
     "place_rank": 16,
     "type": "administrative"
    }
@@ -3740,6 +3832,29 @@
     "type": "administrative"
    }
   ],
+  "De Leon, Texas": [
+   {
+    "addresstype": "town",
+    "boundingbox": [
+     "32.0977351",
+     "32.1245612",
+     "-98.5513906",
+     "-98.5156558"
+    ],
+    "class": "boundary",
+    "display_name": "De Leon, Comanche County, Texas, United States",
+    "importance": 0.45881286497844737,
+    "lat": "32.1104362",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-98.5371496",
+    "name": "De Leon",
+    "osm_id": 8062259,
+    "osm_type": "relation",
+    "place_id": 333438647,
+    "place_rank": 16,
+    "type": "administrative"
+   }
+  ],
   "El Paso, Texas": [
    {
     "addresstype": "city",
@@ -3759,6 +3874,52 @@
     "osm_id": 113919,
     "osm_type": "relation",
     "place_id": 315756961,
+    "place_rank": 16,
+    "type": "administrative"
+   }
+  ],
+  "Evadale, Texas": [
+   {
+    "addresstype": "village",
+    "boundingbox": [
+     "30.3350915",
+     "30.3750915",
+     "-94.0925783",
+     "-94.0525783"
+    ],
+    "class": "place",
+    "display_name": "Evadale, Jasper County, Texas, 77615, United States",
+    "importance": 0.14670416800183103,
+    "lat": "30.3550915",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-94.0725783",
+    "name": "Evadale",
+    "osm_id": 151911237,
+    "osm_type": "node",
+    "place_id": 304530234,
+    "place_rank": 19,
+    "type": "village"
+   }
+  ],
+  "Everman, Texas": [
+   {
+    "addresstype": "village",
+    "boundingbox": [
+     "32.6164870",
+     "32.6433370",
+     "-97.3013010",
+     "-97.2613130"
+    ],
+    "class": "boundary",
+    "display_name": "Everman, Tarrant County, Texas, 76140, United States",
+    "importance": 0.4723370171534866,
+    "lat": "32.6309680",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-97.2891817",
+    "name": "Everman",
+    "osm_id": 6571635,
+    "osm_type": "relation",
+    "place_id": 335059831,
     "place_rank": 16,
     "type": "administrative"
    }
@@ -3809,6 +3970,73 @@
     "type": "administrative"
    }
   ],
+  "Grand Saline, Texas": [
+   {
+    "addresstype": "village",
+    "boundingbox": [
+     "32.6670519",
+     "32.6923626",
+     "-95.7345722",
+     "-95.6949196"
+    ],
+    "class": "boundary",
+    "display_name": "Grand Saline, Van Zandt County, Texas, 75140, United States",
+    "importance": 0.4623381293366233,
+    "lat": "32.6767857",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-95.7110372",
+    "name": "Grand Saline",
+    "osm_id": 6603603,
+    "osm_type": "relation",
+    "place_id": 334744910,
+    "place_rank": 16,
+    "type": "administrative"
+   }
+  ],
+  "Highland Park, Texas": [
+   {
+    "addresstype": "village",
+    "boundingbox": [
+     "32.8189440",
+     "32.8439131",
+     "-96.8192247",
+     "-96.7809340"
+    ],
+    "class": "boundary",
+    "display_name": "Highland Park, Dallas County, Texas, 75205, United States",
+    "importance": 0.48134715482198115,
+    "lat": "32.8334607",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-96.7919454",
+    "name": "Highland Park",
+    "osm_id": 3480033,
+    "osm_type": "relation",
+    "place_id": 331893095,
+    "place_rank": 16,
+    "type": "administrative"
+   },
+   {
+    "addresstype": "hamlet",
+    "boundingbox": [
+     "29.6702542",
+     "29.7102542",
+     "-98.1579092",
+     "-98.1179092"
+    ],
+    "class": "place",
+    "display_name": "Highland Park, New Braunfels, Comal County, Texas, 78130, United States",
+    "importance": 0.13339564278629737,
+    "lat": "29.6902542",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-98.1379092",
+    "name": "Highland Park",
+    "osm_id": 2080732286,
+    "osm_type": "node",
+    "place_id": 314004779,
+    "place_rank": 20,
+    "type": "hamlet"
+   }
+  ],
   "Houston, Texas": [
    {
     "addresstype": "city",
@@ -3849,6 +4077,52 @@
     "osm_id": 140698,
     "osm_type": "relation",
     "place_id": 338640264,
+    "place_rank": 16,
+    "type": "administrative"
+   }
+  ],
+  "Irving, Texas": [
+   {
+    "addresstype": "city",
+    "boundingbox": [
+     "32.7718391",
+     "32.9539846",
+     "-97.0340376",
+     "-96.8887820"
+    ],
+    "class": "boundary",
+    "display_name": "Irving, Dallas County, Texas, United States",
+    "importance": 0.5643463082592607,
+    "lat": "32.8295183",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-96.9442177",
+    "name": "Irving",
+    "osm_id": 5748832,
+    "osm_type": "relation",
+    "place_id": 334307051,
+    "place_rank": 16,
+    "type": "administrative"
+   }
+  ],
+  "Lumberton, Texas": [
+   {
+    "addresstype": "town",
+    "boundingbox": [
+     "30.2125844",
+     "30.2988314",
+     "-94.2611707",
+     "-94.1690817"
+    ],
+    "class": "boundary",
+    "display_name": "Lumberton, Hardin County, Texas, United States",
+    "importance": 0.4610311165122064,
+    "lat": "30.2655322",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-94.1991444",
+    "name": "Lumberton",
+    "osm_id": 6605105,
+    "osm_type": "relation",
+    "place_id": 304053964,
     "place_rank": 16,
     "type": "administrative"
    }
@@ -3922,6 +4196,167 @@
     "type": "administrative"
    }
   ],
+  "Nederland, Texas": [
+   {
+    "addresstype": "town",
+    "boundingbox": [
+     "29.9465650",
+     "30.0190280",
+     "-94.0419500",
+     "-93.9629590"
+    ],
+    "class": "boundary",
+    "display_name": "Nederland, Jefferson County, Texas, 77627, United States",
+    "importance": 0.468045927445346,
+    "lat": "29.9743803",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-93.9923965",
+    "name": "Nederland",
+    "osm_id": 6605106,
+    "osm_type": "relation",
+    "place_id": 303456804,
+    "place_rank": 16,
+    "type": "administrative"
+   }
+  ],
+  "Orange, Texas": [
+   {
+    "addresstype": "town",
+    "boundingbox": [
+     "30.0532375",
+     "30.2267435",
+     "-93.9009486",
+     "-93.7005099"
+    ],
+    "class": "boundary",
+    "display_name": "Orange, Orange County, Texas, 77630, United States",
+    "importance": 0.5388676999558226,
+    "lat": "30.0929879",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-93.7365549",
+    "name": "Orange",
+    "osm_id": 8483051,
+    "osm_type": "relation",
+    "place_id": 303464340,
+    "place_rank": 16,
+    "type": "administrative"
+   }
+  ],
+  "Pasadena, Texas": [
+   {
+    "addresstype": "city",
+    "boundingbox": [
+     "29.5579200",
+     "29.7402417",
+     "-95.2346770",
+     "-94.9826401"
+    ],
+    "class": "boundary",
+    "display_name": "Pasadena, Harris County, Texas, United States",
+    "importance": 0.5214628559760609,
+    "lat": "29.6910753",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-95.2092076",
+    "name": "Pasadena",
+    "osm_id": 115365,
+    "osm_type": "relation",
+    "place_id": 303784563,
+    "place_rank": 16,
+    "type": "administrative"
+   }
+  ],
+  "Port Neches, Texas": [
+   {
+    "addresstype": "town",
+    "boundingbox": [
+     "29.9430490",
+     "30.0125070",
+     "-93.9829740",
+     "-93.8989310"
+    ],
+    "class": "boundary",
+    "display_name": "Port Neches, Jefferson County, Texas, 77651, United States",
+    "importance": 0.4624505594657726,
+    "lat": "29.9913244",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-93.9585067",
+    "name": "Port Neches",
+    "osm_id": 6605110,
+    "osm_type": "relation",
+    "place_id": 300432239,
+    "place_rank": 16,
+    "type": "administrative"
+   }
+  ],
+  "Rio Grande City, Texas": [
+   {
+    "addresstype": "town",
+    "boundingbox": [
+     "26.3322599",
+     "26.4381780",
+     "-98.8686900",
+     "-98.7698280"
+    ],
+    "class": "boundary",
+    "display_name": "Rio Grande City, Starr County, Texas, United States",
+    "importance": 0.5236169012163112,
+    "lat": "26.3827771",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-98.8205251",
+    "name": "Rio Grande City",
+    "osm_id": 115425,
+    "osm_type": "relation",
+    "place_id": 314909023,
+    "place_rank": 16,
+    "type": "administrative"
+   }
+  ],
+  "Slocum, Texas": [
+   {
+    "addresstype": "hamlet",
+    "boundingbox": [
+     "31.6112864",
+     "31.6512864",
+     "-95.4821725",
+     "-95.4421725"
+    ],
+    "class": "place",
+    "display_name": "Slocum, Anderson County, Texas, United States",
+    "importance": 0.3992188066482103,
+    "lat": "31.6312864",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-95.4621725",
+    "name": "Slocum",
+    "osm_id": 151566602,
+    "osm_type": "node",
+    "place_id": 303143434,
+    "place_rank": 20,
+    "type": "hamlet"
+   }
+  ],
+  "Sunnyvale, Texas": [
+   {
+    "addresstype": "village",
+    "boundingbox": [
+     "32.7543384",
+     "32.8336870",
+     "-96.6044302",
+     "-96.5192610"
+    ],
+    "class": "boundary",
+    "display_name": "Sunnyvale, Dallas County, Texas, 75182, United States",
+    "importance": 0.4743815337974522,
+    "lat": "32.7965165",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-96.5608242",
+    "name": "Sunnyvale",
+    "osm_id": 6571687,
+    "osm_type": "relation",
+    "place_id": 335061079,
+    "place_rank": 16,
+    "type": "administrative"
+   }
+  ],
   "Tyler, Texas": [
    {
     "addresstype": "city",
@@ -3941,6 +4376,29 @@
     "osm_id": 6603689,
     "osm_type": "relation",
     "place_id": 332589475,
+    "place_rank": 16,
+    "type": "administrative"
+   }
+  ],
+  "Vidor, Texas": [
+   {
+    "addresstype": "town",
+    "boundingbox": [
+     "30.0897159",
+     "30.1865299",
+     "-94.0388366",
+     "-93.9083047"
+    ],
+    "class": "boundary",
+    "display_name": "Vidor, Orange County, Texas, United States",
+    "importance": 0.46367471724104886,
+    "lat": "30.1313283",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "lon": "-94.0148021",
+    "name": "Vidor",
+    "osm_id": 6605115,
+    "osm_type": "relation",
+    "place_id": 305126898,
     "place_rank": 16,
     "type": "administrative"
    }
