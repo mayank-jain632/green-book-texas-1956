@@ -11,14 +11,18 @@ export function Panel({ routes, route, view, layers, onLayers, routeId, onRoute,
         <p className="kicker">Texas, Fall 1956</p>
         <h1>What a Traveler Could Know</h1>
         <p>
-          Two kinds of information about Texas roads, side by side: the lodging and restaurants the{' '}
-          <em>Negro Travelers&rsquo; Green Book</em> listed in 1956, and what later researchers have
-          documented about sundown towns. This map does not rate any route or place.
+          In 1956, a Black family driving across Texas had to plan where to stop. This map puts two kinds of
+          information side by side: the hotels and restaurants listed in the <em>Negro Travelers&rsquo;
+          Green Book</em>, and towns that later researchers have documented as sundown towns.
+        </p>
+        <p className="how-to">
+          <strong>How to use it:</strong> click any marker on the map to read about it. To look at a drive,
+          pick a drive below.
         </p>
       </header>
+      <RouteControls routes={routes} routeId={routeId} onRoute={onRoute} />
+      {route && <RouteResults route={route} view={view} buffer={buffer} onBuffer={onBuffer} />}
       <ViewControls layers={layers} onLayers={onLayers} />
-      <RouteControls routes={routes} routeId={routeId} onRoute={onRoute} buffer={buffer} onBuffer={onBuffer} />
-      {route && <RouteResults route={route} view={view} buffer={buffer} />}
       <Legend />
       <AboutData />
     </aside>

@@ -4,8 +4,8 @@ const REPO = 'https://github.com/mayank-jain632/green-book-texas-1956';
 
 export function AboutData() {
   return (
-    <section aria-labelledby="about-heading" className="control-block about">
-      <h2 id="about-heading">About this data</h2>
+    <details className="control-block about">
+      <summary>About this data and its limits</summary>
       <ul className="plain-list">
         <li>
           <strong>Green Book listings.</strong> The Green Book listed businesses, not towns. A listing was not
@@ -42,6 +42,6 @@ export function AboutData() {
         Geocoding: US Census Geocoder and Nominatim. Routes: OSRM. Code and data notes:{' '}
         <a href={REPO}>GitHub</a>.
       </p>
-    </section>
+    </details>
   );
 }

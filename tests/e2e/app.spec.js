@@ -19,9 +19,9 @@ test('route selection reports the longest gap with both bracketing listings', as
   await openApp(page);
   await page.getByLabel(/Houston to Orange/).check();
   const results = page.getByRole('region', { name: 'Houston to Orange' });
-  await expect(results.getByText(/Longest stretch with no listed lodging or food within 10 miles/)).toBeVisible();
+  await expect(results.getByText(/Longest stretch with no Green Book listing within 10 miles/)).toBeVisible();
   await expect(results.getByText(/84 miles/)).toBeVisible();
-  await expect(results.getByText(/today.s road network/)).toBeVisible();
+  await expect(results.getByText(/today.s road/)).toBeVisible();
   await expect(results.getByRole('link', { name: 'Vidor' })).toBeVisible();
 });
 
@@ -30,6 +30,7 @@ test('changing the buffer updates the counts', async ({ page }) => {
   await page.getByLabel(/Houston to Orange/).check();
   const results = page.getByRole('region', { name: 'Houston to Orange' });
   await expect(results.getByText(/15 listings in/)).toBeVisible();
+  await results.getByText('Change how close counts as nearby').click();
   await page.locator('#buffer').fill('3');
   await expect(results.getByText(/within 3 miles/).first()).toBeVisible();
   await expect(results.getByText(/15 listings in/)).toHaveCount(0);
